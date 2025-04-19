@@ -9,7 +9,7 @@ export default function FounderPage() {
       <div className="flex flex-col gap-4">
         <h1 className="text-3xl font-bold tracking-tighter md:text-4xl font-playfair">Meet Our Founder</h1>
         <p className="max-w-[700px] text-muted-foreground md:text-lg">
-          The story behind HerForm and the woman who started it all
+          The story behind She Sapien and the woman who started it all
         </p>
       </div>
 
@@ -28,7 +28,7 @@ export default function FounderPage() {
           <div className="flex items-start gap-2">
             <Quote className="h-8 w-8 text-sage/20 flex-shrink-0 mt-1" />
             <p className="text-muted-foreground italic">
-              I started HerForm because I was tired of seeing women compromise on style, comfort, or sustainability when
+              I started She Sapien because I was tired of seeing women compromise on style, comfort, or sustainability when
               it came to workwear. I believed we deserved better—clothes that fit our bodies, aligned with our values,
               and empowered us to show up confidently in any room.
             </p>
@@ -39,12 +39,12 @@ export default function FounderPage() {
             comfortable and stylish, she decided to create her own solution.
           </p>
           <p className="text-muted-foreground">
-            Drawing on her background in business and passion for sustainable fashion, Anjali launched HerForm in 2020.
+            Drawing on her background in business and passion for sustainable fashion, Anjali launched She Sapien in 2020.
             Her vision was clear: create a brand that empowers women through thoughtfully designed clothing that fits
             Indian body types and supports ethical production practices.
           </p>
           <p className="text-muted-foreground">
-            Under Anjali's leadership, HerForm has grown from a small startup to a respected name in sustainable
+            Under Anjali's leadership, She Sapien has grown from a small startup to a respected name in sustainable
             workwear, with a community of thousands of women who share her vision for fashion that serves a purpose.
           </p>
         </div>
@@ -77,9 +77,9 @@ export default function FounderPage() {
             <div className="h-12 w-12 rounded-full bg-sage flex items-center justify-center text-ivory font-bold">
               3
             </div>
-            <h3 className="text-lg font-medium">HerForm is Born</h3>
+            <h3 className="text-lg font-medium">She Sapien is Born</h3>
             <p className="text-muted-foreground">
-              In 2020, Anjali left her corporate job to launch HerForm, combining her business acumen with her passion
+              In 2020, Anjali left her corporate job to launch She Sapien, combining her business acumen with her passion
               for empowering women through sustainable fashion.
             </p>
           </div>

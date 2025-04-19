@@ -23,7 +23,7 @@ export default function CommunityPage() {
                 </p>
               </div>
               <p className="text-muted-foreground">
-                HerForm is more than just clothing—it's a community of like-minded women who believe in the power of
+                She-Sapien is more than just clothing—it's a community of like-minded women who believe in the power of
                 confidence, sustainability, and supporting each other. Through events, workshops, and shared stories,
                 we're building connections that extend beyond fashion.
               </p>
@@ -39,7 +39,7 @@ export default function CommunityPage() {
             <div className="relative aspect-square overflow-hidden rounded-xl lg:aspect-auto">
               <Image
                 src="/placeholder.svg?height=600&width=600"
-                alt="HerForm community event"
+                alt="She-Sapien community event"
                 fill
                 className="object-cover"
               />
@@ -80,7 +80,7 @@ export default function CommunityPage() {
                   </div>
                   <div className="mt-1 flex items-center gap-2 text-sm text-muted-foreground">
                     <MapPin className="h-4 w-4" />
-                    <span>HerForm Studio, Mumbai</span>
+                    <span>She-Sapien Studio, Mumbai</span>
                   </div>
                   <h3 className="mt-4 text-xl font-medium">Office to Evening: Styling Workshop</h3>
                   <p className="mt-2 text-muted-foreground">
@@ -129,7 +129,7 @@ export default function CommunityPage() {
                 <div className="relative aspect-[16/9] w-full overflow-hidden">
                   <Image
                     src="/placeholder.svg?height=300&width=500"
-                    alt="Networking Brunch"
+                    alt="She-Sapien Networking Brunch"
                     fill
                     className="object-cover"
                   />
@@ -146,7 +146,7 @@ export default function CommunityPage() {
                     <MapPin className="h-4 w-4" />
                     <span>The Green Café, Delhi</span>
                   </div>
-                  <h3 className="mt-4 text-xl font-medium">HerForm Networking Brunch</h3>
+                  <h3 className="mt-4 text-xl font-medium">She-Sapien Networking Brunch</h3>
                   <p className="mt-2 text-muted-foreground">
                     Connect with like-minded professionals over brunch in a relaxed setting.
                   </p>
@@ -181,19 +181,19 @@ export default function CommunityPage() {
             <TestimonialCard
               name="Priya Sharma"
               role="Marketing Director"
-              quote="HerForm's clothes have become my workwear staples. The fit is perfect for Indian women, and I love how I can transition from day meetings to evening events without changing."
+              quote="She-Sapien's clothes have become my workwear staples. The fit is perfect for Indian women, and I love how I can transition from day meetings to evening events without changing."
               image="/placeholder.svg?height=200&width=200"
             />
             <TestimonialCard
               name="Anjali Mehta"
               role="Financial Analyst"
-              quote="As someone who struggled to find professional wear that fits well, HerForm has been a game-changer. The sustainable aspect makes me feel good about my purchases too."
+              quote="As someone who struggled to find professional wear that fits well, She-Sapien has been a game-changer. The sustainable aspect makes me feel good about my purchases too."
               image="/placeholder.svg?height=200&width=200"
             />
             <TestimonialCard
               name="Deepika Patel"
               role="Tech Entrepreneur"
-              quote="The confidence I feel in HerForm clothing has genuinely impacted how I present myself in the boardroom. Quality, comfort, and style all in one."
+              quote="The confidence I feel in She-Sapien clothing has genuinely impacted how I present myself in the boardroom. Quality, comfort, and style all in one."
               image="/placeholder.svg?height=200&width=200"
             />
           </div>
@@ -212,7 +212,7 @@ export default function CommunityPage() {
             <div className="relative aspect-square overflow-hidden rounded-xl lg:aspect-auto">
               <Image
                 src="/placeholder.svg?height=600&width=600"
-                alt="HerForm brand ambassadors"
+                alt="She-Sapien brand ambassadors"
                 fill
                 className="object-cover"
               />
@@ -223,7 +223,7 @@ export default function CommunityPage() {
                   Become a Brand Ambassador
                 </h2>
                 <p className="max-w-[600px] text-muted-foreground md:text-xl">
-                  Share your HerForm journey and inspire others to join the movement
+                  Share your She-Sapien journey and inspire others to join the movement
                 </p>
               </div>
               <p className="text-muted-foreground">

@@ -18,7 +18,7 @@ export default function SustainabilityPage() {
         <div className="flex flex-col justify-center space-y-4">
           <h2 className="text-2xl font-bold font-playfair">Our Approach</h2>
           <p className="text-muted-foreground">
-            At HerForm, sustainability isn't an afterthought—it's built into our business model from the ground up. We
+            At She-Sapien, sustainability isn't an afterthought—it's built into our business model from the ground up. We
             believe that fashion can be both beautiful and responsible, and we're committed to proving it with every
             piece we create.
           </p>
@@ -224,7 +224,7 @@ export default function SustainabilityPage() {
           <div className="relative aspect-video overflow-hidden rounded-xl">
             <Image
               src="/placeholder.svg?height=400&width=600"
-              alt="HerForm sustainability impact"
+              alt="She-Sapien sustainability impact"
               fill
               className="object-cover"
             />
@@ -235,7 +235,7 @@ export default function SustainabilityPage() {
       <div className="mt-16 text-center">
         <h2 className="text-2xl font-bold font-playfair">Join Our Sustainability Journey</h2>
         <p className="mt-4 text-muted-foreground max-w-2xl mx-auto">
-          We believe that small choices can make a big difference. By choosing HerForm, you're not just buying
+          We believe that small choices can make a big difference. By choosing She-Sapien, you're not just buying
           clothes—you're voting for a more sustainable and equitable fashion industry.
         </p>
         <div className="mt-8 flex justify-center gap-4">

@@ -10,7 +10,7 @@ export default function TermsPage() {
 
       <div className="mt-8 prose prose-slate max-w-none">
         <p>
-          Welcome to HerForm. By accessing or using our website, you agree to be bound by these Terms of Use. Please read them carefully.
+          Welcome to She-Sapien. By accessing or using our website, you agree to be bound by these Terms of Use. Please read them carefully.
         </p>
 
         <h2>Acceptance of Terms</h2>
@@ -65,7 +65,7 @@ export default function TermsPage() {
 
         <h2>Intellectual Property</h2>
         <p>
-          All content on our website, including text, graphics, logos, images, and software, is the property of HerForm or its content suppliers and is protected by copyright and other intellectual property laws.
+          All content on our website, including text, graphics, logos, images, and software, is the property of She-Sapien or its content suppliers and is protected by copyright and other intellectual property laws.
         </p>
         <p>
           You may not reproduce, distribute, modify, display, or create derivative works from any content without our prior written consent.
@@ -83,10 +83,15 @@ export default function TermsPage() {
 
         <h2>Limitation of Liability</h2>
         <p>
-          To the fullest extent permitted by law, HerForm shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising out of or relating to your use of our website or products.
+          To the fullest extent permitted by law, She-Sapien shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising out of or relating to your use of our website or products.
         </p>
 
         <h2>Indemnification</h2>
         <p>
-          You agree to indemnify and hold harmless HerForm and its officers, directors, employees, and agents from any claims, liabilities, damages, losses\
+          You agree to indemnify and hold harmless She-Sapien and its officers, directors, employees, and agents from any claims, liabilities, damages, losses
+        </p>
+      </div>
+    </div>
+  );
+}
 

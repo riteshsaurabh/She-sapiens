@@ -135,7 +135,7 @@ export default function ContactPage() {
                   <Mail className="h-5 w-5 text-sage mt-0.5" />
                   <div>
                     <p className="font-medium">Email</p>
-                    <p className="text-muted-foreground">support@herform.com</p>
+                    <p className="text-muted-foreground">support@shesapien.com</p>
                   </div>
                 </CardContent>
               </Card>
@@ -155,12 +155,12 @@ export default function ContactPage() {
           <div>
             <h2 className="text-2xl font-bold font-playfair">Visit Our Store</h2>
             <p className="mt-2 text-muted-foreground">
-              Experience HerForm in person at our flagship store in Mumbai.
+              Experience She Sapien in person at our flagship store in Mumbai.
             </p>
             
             <Card className="mt-6">
               <CardContent className="p-4">
-                <p className="font-medium">HerForm Flagship Store</p>
+                <p className="font-medium">She Sapien Flagship Store</p>
                 <p className="text-muted-foreground">123 Fashion Street, Bandra West</p>
                 <p className="text-muted-foreground">Mumbai, Maharashtra 400050</p>
                 <p className="mt-2 text-muted-foreground">

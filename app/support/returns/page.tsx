@@ -19,7 +19,7 @@ export default function ReturnsPage() {
           <div className="space-y-2">
             <h2 className="text-2xl font-bold font-playfair">Our Promise</h2>
             <p className="text-muted-foreground">
-              We want you to love your HerForm pieces. If you're not completely satisfied with your purchase, we're here
+              We want you to love your She-Sapien pieces. If you're not completely satisfied with your purchase, we're here
               to help with an easy return process.
             </p>
           </div>

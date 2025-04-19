@@ -17,7 +17,7 @@ const playfair = Playfair_Display({
 })
 
 export const metadata: Metadata = {
-  title: "HerForm - Premium Sustainable Officewear for Indian Women",
+  title: "She Sapien - Premium Sustainable Officewear for Indian Women",
   description:
     "Sustainable, tailored officewear for the modern Indian woman. Empowering through fashion that fits her life, values, and ambition.",
     generator: 'v0.dev'

@@ -125,7 +125,7 @@ export default function MaterialsPage() {
         <div className="mt-8 grid gap-8 md:grid-cols-2">
           <div>
             <p className="text-muted-foreground">
-              At HerForm, sustainability isn't just a buzzword—it's woven into every fiber of our business. We carefully
+              At She-Sapien, sustainability isn't just a buzzword—it's woven into every fiber of our business. We carefully
               select materials that minimize environmental impact while maximizing comfort and durability.
             </p>
             <p className="mt-4 text-muted-foreground">
@@ -134,7 +134,7 @@ export default function MaterialsPage() {
               ways to improve our sustainability practices.
             </p>
             <p className="mt-4 text-muted-foreground">
-              By choosing HerForm, you're not just investing in quality clothing—you're supporting a more sustainable
+              By choosing She-Sapien, you're not just investing in quality clothing—you're supporting a more sustainable
               fashion industry.
             </p>
             <Button className="mt-6" asChild>

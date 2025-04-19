@@ -19,18 +19,18 @@ export default function AboutPage() {
                 </p>
               </div>
               <p className="text-muted-foreground">
-                HerForm was born from a simple observation: the frustration of seeing women wear the same 5 shirts to
+                She Sapien was born from a simple observation: the frustration of seeing women wear the same 5 shirts to
                 work. Our founder, Anjali Mehta, experienced firsthand the challenge of finding officewear that was both
                 professional and comfortable for the Indian climate and body type.
               </p>
               <p className="text-muted-foreground">
                 After years in corporate leadership roles, Anjali decided to create the solution herself – a brand built
-                for ambition, from ambition. Today, HerForm is leading the way in sustainable, tailored officewear
+                for ambition, from ambition. Today, She Sapien is leading the way in sustainable, tailored officewear
                 designed specifically for Indian women.
               </p>
             </div>
             <div className="relative aspect-square overflow-hidden rounded-xl lg:aspect-auto">
-              <Image src="/placeholder.svg?height=600&width=600" alt="HerForm founder" fill className="object-cover" />
+              <Image src="/placeholder.svg?height=600&width=600" alt="She Sapien founder" fill className="object-cover" />
             </div>
           </div>
         </div>
@@ -42,7 +42,7 @@ export default function AboutPage() {
           <div className="flex flex-col items-center gap-4 text-center">
             <h2 className="text-2xl font-bold tracking-tighter sm:text-3xl md:text-4xl font-playfair">Our Values</h2>
             <p className="max-w-[700px] text-muted-foreground md:text-lg">
-              The principles that guide everything we do at HerForm
+              The principles that guide everything we do at She Sapien
             </p>
           </div>
           <div className="mt-12 grid gap-8 sm:grid-cols-2 lg:grid-cols-4">
@@ -162,7 +162,7 @@ export default function AboutPage() {
               Why We're Different
             </h2>
             <p className="max-w-[700px] text-muted-foreground md:text-lg">
-              HerForm is reimagining officewear for the modern Indian woman
+              She Sapien is reimagining officewear for the modern Indian woman
             </p>
           </div>
           <div className="mt-12 grid gap-8 md:grid-cols-2 lg:grid-cols-3">
@@ -191,7 +191,7 @@ export default function AboutPage() {
               <h3 className="text-xl font-bold">Community-First Brand</h3>
               <p className="text-muted-foreground">
                 We host regular styling sessions, leadership meetups, and create spaces for women to connect and grow
-                together. HerForm is more than clothing—it's a community.
+                together. She Sapien is more than clothing—it's a community.
               </p>
             </div>
             <div className="flex flex-col gap-2">
@@ -217,7 +217,7 @@ export default function AboutPage() {
         <div className="container px-4 md:px-6">
           <div className="flex flex-col items-center gap-4 text-center">
             <h2 className="text-2xl font-bold tracking-tighter sm:text-3xl md:text-4xl font-playfair">Meet Our Team</h2>
-            <p className="max-w-[700px] text-muted-foreground md:text-lg">The passionate individuals behind HerForm</p>
+            <p className="max-w-[700px] text-muted-foreground md:text-lg">The passionate individuals behind She Sapien</p>
           </div>
           <div className="mt-12 grid gap-8 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
             <div className="flex flex-col items-center gap-2 text-center">

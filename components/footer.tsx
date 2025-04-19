@@ -10,7 +10,7 @@ export default function Footer() {
       <div className="container px-4 py-12 md:px-6 lg:py-16">
         <div className="grid gap-8 sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-5">
           <div className="space-y-4">
-            <h3 className="text-lg font-playfair font-medium">HerForm</h3>
+            <h3 className="text-lg font-playfair font-medium">She Sapien</h3>
             <p className="text-sm text-muted-foreground">Powerfully You. Officewear that Speaks Confidence.</p>
             <div className="flex space-x-3">
               <Button variant="ghost" size="icon" asChild>
@@ -127,7 +127,7 @@ export default function Footer() {
         <div className="mt-12 border-t pt-8">
           <div className="flex flex-col items-center justify-between gap-4 md:flex-row">
             <div className="flex flex-wrap gap-4 text-xs text-muted-foreground">
-              <span>© {new Date().getFullYear()} HerForm. All rights reserved.</span>
+              <span>© {new Date().getFullYear()} She Sapien. All rights reserved.</span>
               <Link href="/privacy" className="hover:text-foreground">
                 Privacy Policy
               </Link>

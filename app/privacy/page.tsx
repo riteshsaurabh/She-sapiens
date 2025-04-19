@@ -8,7 +8,7 @@ export default function PrivacyPage() {
 
       <div className="mt-8 prose prose-slate max-w-none">
         <p>
-          At HerForm, we take your privacy seriously. This Privacy Policy explains how we collect, use, disclose, and
+          At She Sapien, we take your privacy seriously. This Privacy Policy explains how we collect, use, disclose, and
           safeguard your information when you visit our website or make a purchase.
         </p>
 
@@ -64,7 +64,7 @@ export default function PrivacyPage() {
           <li>Data portability</li>
           <li>Objection to processing</li>
         </ul>
-        <p>To exercise these rights, please contact us at privacy@herform.com.</p>
+        <p>To exercise these rights, please contact us at privacy@shesapien.com.</p>
 
         <h2>Security</h2>
         <p>
@@ -82,7 +82,7 @@ export default function PrivacyPage() {
         <h2>Contact Us</h2>
         <p>If you have questions or concerns about this Privacy Policy, please contact us at:</p>
         <p>
-          Email: privacy@herform.com
+          Email: privacy@shesapien.com
           <br />
           Phone: +91 98765 43210
           <br />

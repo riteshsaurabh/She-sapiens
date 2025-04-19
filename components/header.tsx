@@ -67,7 +67,7 @@ export default function Header() {
           </SheetContent>
         </Sheet>
         <Link href="/" className="mr-6 flex items-center space-x-2">
-          <span className="text-xl font-playfair font-bold">HerForm</span>
+          <span className="text-xl font-playfair font-bold">She Sapien</span>
         </Link>
         <div className="hidden md:flex">
           <NavigationMenu className="text-charcoal">

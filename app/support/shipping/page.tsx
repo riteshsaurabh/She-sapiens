@@ -10,7 +10,7 @@ export default function ShippingPage() {
       <div className="flex flex-col gap-4">
         <h1 className="text-3xl font-bold tracking-tighter md:text-4xl font-playfair">Shipping Information</h1>
         <p className="max-w-[700px] text-muted-foreground md:text-lg">
-          Everything you need to know about getting your HerForm pieces delivered to you
+          Everything you need to know about getting your She-Sapien pieces delivered to you
         </p>
       </div>
 
@@ -19,7 +19,7 @@ export default function ShippingPage() {
           <div className="space-y-2">
             <h2 className="text-2xl font-bold font-playfair">Delivery Options</h2>
             <p className="text-muted-foreground">
-              We offer several shipping options to ensure your HerForm pieces reach you in a timeframe that suits your
+              We offer several shipping options to ensure your She-Sapien pieces reach you in a timeframe that suits your
               needs.
             </p>
           </div>

@@ -35,7 +35,7 @@ export default function Home() {
           <div className="relative aspect-video w-full max-w-xl overflow-hidden rounded-xl lg:aspect-square">
             <Image
               src="/placeholder.svg?height=800&width=800"
-              alt="Confident Indian woman in HerForm workwear"
+              alt="Confident Indian woman in She-Sapien workwear"
               fill
               className="object-cover"
               priority
@@ -44,11 +44,11 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Why HerForm Section */}
+      {/* Why She-Sapien Section */}
       <section className="bg-muted/50 py-16 md:py-24">
         <div className="container px-4 md:px-6">
           <div className="flex flex-col items-center gap-4 text-center">
-            <h2 className="text-2xl font-bold tracking-tighter sm:text-3xl md:text-4xl font-playfair">Why HerForm</h2>
+            <h2 className="text-2xl font-bold tracking-tighter sm:text-3xl md:text-4xl font-playfair">Why She-Sapien</h2>
             <p className="max-w-[700px] text-muted-foreground md:text-lg">
               We exist to power the confidence of the modern Indian woman – through fashion that fits her life, values,
               and ambition.
@@ -63,7 +63,7 @@ export default function Home() {
             </div>
             <Image
               src="/placeholder.svg?height=600&width=1200"
-              alt="HerForm brand video thumbnail"
+              alt="She-Sapien brand video thumbnail"
               fill
               className="object-cover"
             />
@@ -250,19 +250,19 @@ export default function Home() {
             <TestimonialCard
               name="Priya Sharma"
               role="Marketing Director"
-              quote="HerForm's clothes have become my workwear staples. The fit is perfect for Indian women, and I love how I can transition from day meetings to evening events without changing."
+              quote="She-Sapien's clothes have become my workwear staples. The fit is perfect for Indian women, and I love how I can transition from day meetings to evening events without changing."
               image="/placeholder.svg?height=200&width=200"
             />
             <TestimonialCard
               name="Anjali Mehta"
               role="Financial Analyst"
-              quote="As someone who struggled to find professional wear that fits well, HerForm has been a game-changer. The sustainable aspect makes me feel good about my purchases too."
+              quote="As someone who struggled to find professional wear that fits well, She-Sapien has been a game-changer. The sustainable aspect makes me feel good about my purchases too."
               image="/placeholder.svg?height=200&width=200"
             />
             <TestimonialCard
               name="Deepika Patel"
               role="Tech Entrepreneur"
-              quote="The confidence I feel in HerForm clothing has genuinely impacted how I present myself in the boardroom. Quality, comfort, and style all in one."
+              quote="The confidence I feel in She-Sapien clothing has genuinely impacted how I present myself in the boardroom. Quality, comfort, and style all in one."
               image="/placeholder.svg?height=200&width=200"
             />
           </div>
@@ -338,7 +338,7 @@ export default function Home() {
                 </div>
                 <h3 className="text-xl font-medium">Become a Brand Ambassador</h3>
                 <p className="text-muted-foreground">
-                  Share your HerForm journey and inspire others to join the movement
+                  Share your She-Sapien journey and inspire others to join the movement
                 </p>
                 <Button asChild>
                   <Link href="/community/ambassador">Join Us</Link>
