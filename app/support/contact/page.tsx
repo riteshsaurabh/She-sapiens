@@ -78,10 +78,6 @@ export default function ContactPage() {
             </div>
             
             <div className="space-y-2">
-              <label htmlFor="subject  />
-            </div>
-            
-            <div className=\"space-y-2">
               <label htmlFor="subject" className="text-sm font-medium">
                 Subject
               </label>
